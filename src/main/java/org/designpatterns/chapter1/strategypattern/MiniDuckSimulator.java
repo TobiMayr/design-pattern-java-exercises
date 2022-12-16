@@ -1,7 +1,7 @@
 package org.designpatterns.chapter1.strategypattern;
 
 import org.designpatterns.chapter1.strategypattern.behaviours.FlyRocketPowered;
-import org.designpatterns.chapter1.strategypattern.objects.*;
+import org.designpatterns.chapter1.strategypattern.models.*;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {

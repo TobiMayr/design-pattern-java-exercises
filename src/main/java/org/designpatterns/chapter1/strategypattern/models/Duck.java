@@ -1,4 +1,4 @@
-package org.designpatterns.chapter1.strategypattern.objects;
+package org.designpatterns.chapter1.strategypattern.models;
 
 import org.designpatterns.chapter1.strategypattern.behaviours.FlyBehaviour;
 import org.designpatterns.chapter1.strategypattern.behaviours.QuackBehaviour;
