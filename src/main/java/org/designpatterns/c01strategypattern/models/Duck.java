@@ -1,7 +1,8 @@
-package org.designpatterns.chapter1.strategypattern.models;
+package org.designpatterns.c01strategypattern.models;
 
-import org.designpatterns.chapter1.strategypattern.behaviours.FlyBehaviour;
-import org.designpatterns.chapter1.strategypattern.behaviours.QuackBehaviour;
+
+import org.designpatterns.c01strategypattern.behaviours.FlyBehaviour;
+import org.designpatterns.c01strategypattern.behaviours.QuackBehaviour;
 
 public class Duck {
     FlyBehaviour flyBehaviour;

@@ -1,6 +1,7 @@
-package org.designpatterns.chapter1.strategypattern.models;
+package org.designpatterns.c01strategypattern.models;
 
-import org.designpatterns.chapter1.strategypattern.behaviours.Quack;
+
+import org.designpatterns.c01strategypattern.behaviours.Quack;
 
 public class DuckCallDevice extends Device {
 

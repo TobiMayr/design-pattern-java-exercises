@@ -1,4 +1,4 @@
-package org.designpatterns.chapter1.strategypattern.behaviours;
+package org.designpatterns.c01strategypattern.behaviours;
 
 public class Quack implements QuackBehaviour {
     @Override

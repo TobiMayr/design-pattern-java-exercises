@@ -1,6 +1,7 @@
-package org.designpatterns.chapter1.strategypattern.models;
+package org.designpatterns.c01strategypattern.models;
 
-import org.designpatterns.chapter1.strategypattern.behaviours.QuackBehaviour;
+
+import org.designpatterns.c01strategypattern.behaviours.QuackBehaviour;
 
 public class Device {
     QuackBehaviour quackBehaviour;
